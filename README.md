@@ -1,1 +1,1 @@
-**OKids will be moving to github.com/TheGameSystems/OKids on September 13, 2025 at around 3:30pm or later. During this time, OKids may be unavailable or malfunctional. We´re sorry for the interruption to services, but we feel this will ease access and development of OKids services.**
+# This version of the OKids website has been archive for preservation purposes. If you want to access OKids, please use okids.xyz, or thegamesystems.github.io/OKids-Java.
